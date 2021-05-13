@@ -1,6 +1,6 @@
 # ihc_fdr
 
-Projeto desenvolvido com [Pedro Gonçalves](https://github.com/PedroG-8) [Rui Oliveira](https://github.com/ruimigueloliveira) para a unidade curricular Laboratórios de Sistemas Digitais do 2º semestre do 1º ano do curso Mestrado Integrado em Engenharia de Computadores e Telemática.
+Projeto desenvolvido com [Pedro Gonçalves](https://github.com/PedroG-8) e [Rui Oliveira](https://github.com/ruimigueloliveira) para a unidade curricular Laboratórios de Sistemas Digitais do 2º semestre do 1º ano do curso Mestrado Integrado em Engenharia de Computadores e Telemática.
 Neste projeto, desenvolvemos uma mobile app onde é possível agendar entregas de comida por parte de restaurantes a intituições de caridade.
 Existe uma paste de um protótipo, e uma pasta com o projeto em C# que pode ser aberto e executado através do Visual Studio.
 ------------------------------------------------------------------------------------------------------------------
